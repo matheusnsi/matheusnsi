@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Júnior</strong> · React &amp; TypeScript no front, Node.js &amp; C#/.NET no back<br>
-  São Paulo, SP · em busca da próxima oportunidade em uma grande empresa
+  São Paulo, SP
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 Construo software desde o ensino médio técnico em Desenvolvimento de Sistemas. Durante **1 ano de estágio na MultiTools** (indústria automotiva), fui corresponsável por **todo o desenvolvimento de sistemas da empresa** — do site institucional a ferramentas internas de qualidade e automação, atuando do levantamento de requisitos à entrega em produção.
 
-Concluí a formação **full stack do Instituto PROA/Senac** como **🏆 Aluno Destaque da turma** e, em agosto de 2026, inicio a graduação em **Análise e Desenvolvimento de Sistemas no Senac**. Meu foco de crescimento é aprofundar o back-end em **C#/.NET**.
+Concluí a formação **full stack do Instituto PROA/Senac** como **🏆 Aluno Destaque** e atualmente curso **Análise e Desenvolvimento de Sistemas no Senac**. Meu foco de crescimento é aprofundar o back-end em **C#/.NET**.
 
 ### 🛠️ Tecnologias
 
@@ -42,15 +42,8 @@ Concluí a formação **full stack do Instituto PROA/Senac** como **🏆 Aluno D
 |---|---|---|
 | **[Quality Instructions System](https://github.com/matheusnsi/qualityInstructionsSystem)** | Sistema de exibição digital de Instruções de Trabalho para chão de fábrica. Reimplementação autoral de um sistema real que desenvolvi na indústria. | React · TypeScript · Vite |
 | **[Argus Vision — Back-end](https://github.com/ArgusVision-demoday/Sistema_Argus_Vision_Back-end)** | API com chatbot de IA ("Elion") para tecnologia assistiva a tutores de cães-guia. Projeto do DemoDay PROA. | C# · ASP.NET Core · LLM (Groq) |
-| **[contaths](https://github.com/matheusnsi/contaths)** | Aplicação de gestão financeira com gerência de estado via Redux Toolkit. | React · TypeScript · Redux |
-| **[eplay](https://github.com/matheusnsi/eplay)** | Loja de games com carrinho e checkout. | React · TypeScript · styled-components |
-
-### 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusnsi&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnsi&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
+| **[Label Generator](https://github.com/matheusnsi/labelGenerator)** | Gerador de etiquetas adesivas com código de barras para produtos industriais. Reimplementação autoral. | React · TypeScript · JsBarcode |
+| **[Badge Generator](https://github.com/matheusnsi/badgeGenerator)** | Gerador de crachás com foto e código de barras, com automação de imagem. Reimplementação autoral. | Python · Pillow |
 
 ---
 
